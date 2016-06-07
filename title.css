@@ -1,0 +1,10 @@
+.heading
+{    color: red;
+    font-size: 40px;}
+.description
+{    color: gray;
+    font-size: 40px;
+  }
+.one {
+  border-left: solid 5px black;
+  }
